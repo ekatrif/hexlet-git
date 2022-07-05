@@ -1,1 +1,1 @@
-Lear GIT with Hexlet
+# Learn GIT with Hexlet
